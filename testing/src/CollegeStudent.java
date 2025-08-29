@@ -7,6 +7,6 @@ public class CollegeStudent extends student1{
         System.out.println(name+" Attend class on smart board");
     }
     public void give_exam(){
-        System.out.println(roll_no+" Give exam in Online Mode");
+
     }
 }
